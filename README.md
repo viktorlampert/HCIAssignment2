@@ -35,7 +35,7 @@ https://imgur.com/a/NrfWWS8
 
 Top 5 Desirable Functionality (Needfinding/Competitive Analysis)
 
-1.Social interaction sections for user stories related to covid
+1.Social interaction sections for user stories related to COVID-19
 
 2.Notifications for important updates from the application
 
