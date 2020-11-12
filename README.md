@@ -1,5 +1,7 @@
-# HCIAssignment2 Viktor Lampert (lampertv)
+# HCIAssignment2 Viktor Lampert (lampertv) 991485332
 Figma File: https://www.figma.com/file/p98ZxsJgT3aE2Kmsps3EcX/Untitled?node-id=0%3A1&viewport=1358%2C1751%2C1.118045449256897
+
+Screenshots with Descriptions:
 
 Screenshot1 Startup Screen (Description: Initial screen when you open up the app, continue button takes you to the home screen)
 https://imgur.com/a/kBJ6c6M
@@ -30,3 +32,15 @@ https://imgur.com/a/rHdRKEv
 
 Screenshot10 COVID-19 News Screen (Description: Screen that contains the most recent news for COVID-19 information)
 https://imgur.com/a/NrfWWS8
+
+Top 5 Desirable Functionality (Needfinding/Competitive Analysis)
+
+1.Social interaction sections for user stories related to covid
+
+2.Notifications for important updates from the application
+
+3.Expected interactions (clicking a UI item does exactly what you expect it to do all the time)
+
+4.Location Services for finding help no matter what you are
+
+5.Live chat functionality
